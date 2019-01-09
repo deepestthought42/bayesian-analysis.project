@@ -1,0 +1,12 @@
+[submodule "gsl-cffi"]
+	path = gsl-cffi
+	url = git@github.com:deepestthought42/gsl-cffi.git
+[submodule "cffi-nlopt"]
+	path = cffi-nlopt
+	url = git@github.com:deepestthought42/cffi-nlopt.git
+[submodule "bayesian-analysis"]
+	path = bayesian-analysis
+	url = git@github.com:deepestthought42/bayesian-analysis.git
+[submodule "math-utils"]
+	path = math-utils
+	url = git@github.com:deepestthought42/math-utils.git
